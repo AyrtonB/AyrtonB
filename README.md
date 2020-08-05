@@ -2,7 +2,7 @@
 
 <br>
 
-I'm a PhD student working within the Energy Systems & AI Lab at the UCL Energy Institute, my research focuses on new techniques for forecasting electricity prices and wind power to aid in optimisation of wind farm operation. Before my PhD I received a bachelors in Chemical Engineering and masters in Energy Systems & Data Analytics. Alongside my research I help teach statistics, programming, and GIS to masters students at the UCL Energy Institute. 
+I'm a PhD student working within the Energy Systems & AI Lab at the UCL Energy Institute, my research focuses on new techniques for forecasting electricity prices and wind power to aid in optimisation of wind farm operation. Before starting my PhD I received a bachelors in Chemical Engineering and masters in Energy Systems & Data Analytics. Alongside my research I help teach statistics, programming, and GIS to masters students at the UCL Energy Institute. 
 
 * 🎓 PhD student at the UCL Energy & AI Lab 
 * ⚡ Organiser, participant, and winner of energy hackathons
