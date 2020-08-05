@@ -29,7 +29,7 @@ I've built several energy related websites for my own projects, external clients
 
 | <a href="https://futureenergy.associates">Future Energy Associates</a> | <a href="http://energyjournal.co.uk/">Energy Journal</a> | <a href="http://japrofessionalservices.com/">JA Professional Services</a> |
 | --- | --- | --- |
-| <img src="https://github.com/AyrtonB/AyrtonB/tree/master/img/FEA.jpg?raw=true"></img> | <img src="https://github.com/AyrtonB/AyrtonB/tree/master/img/energy_journal.jpg?raw=true"></img> | <img src="https://github.com/AyrtonB/AyrtonB/tree/master/img/JAPSI.jpg?raw=true"></img> |
+| <img src="https://raw.githubusercontent.com/AyrtonB/AyrtonB/master/img/FEA.jpg"></img> | <img src="https://raw.githubusercontent.com/AyrtonB/AyrtonB/master/img/energy_journal.jpg"></img> | <img src="https://raw.githubusercontent.com/AyrtonB/AyrtonB/master/img/JAPSI.jpg"></img> |
 
 <br>
 <br>
