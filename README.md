@@ -10,6 +10,9 @@ I'm a PhD student working within the Energy Systems & AI Lab at the UCL Energy I
 * 💬 Normally talking about something energy or Python related
 
 <br>
+
+![HAyrton's github stats](https://github-readme-stats.vercel.app/api?username=AyrtonB&hide=["issues"]&show_icons=true&count_private=true)
+
 <br>
 
 ### Portfolio
@@ -26,7 +29,7 @@ I've built several energy related websites for my own projects, external clients
 
 | <a href="https://futureenergy.associates">Future Energy Associates</a> | <a href="http://energyjournal.co.uk/">Energy Journal</a> | <a href="http://japrofessionalservices.com/">JA Professional Services</a> |
 | --- | --- | --- |
-| <img src="img/FEA.jpg"></img> | <img src="img/energy_journal.jpg"></img> | <img src="img/JAPSI.jpg"></img> |
+| <img src="https://github.com/AyrtonB/AyrtonB/tree/master/img/FEA.jpg"></img> | <img src="https://github.com/AyrtonB/AyrtonB/tree/master/img/energy_journal.jpg"></img> | <img src="https://github.com/AyrtonB/AyrtonB/tree/master/img/JAPSI.jpg"></img> |
 
 <br>
 <br>
