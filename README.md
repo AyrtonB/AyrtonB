@@ -17,11 +17,11 @@ I'm a PhD student working within the Energy Systems & AI Lab at the UCL Energy I
 
 ### Portfolio
 
-I'm particularly excited by the growing volumes of energy data being made available and build tools to help others access it easier. To this end I've developed a number of Python libraries for downloading data from the UK National Grid and BMRS, alongside smaller one-off notebooks for accessing other data sources.
+I'm particularly excited by the growing volumes of energy data being made available and build tools to help others access it easier. To this end I've developed a number of Python libraries for downloading data from Octopus Energy, the UK National Grid, and BMRS - alongside smaller one-off notebooks for accessing other data sources.
 
-| &nbsp; | Data Portals | &nbsp; |
-| --- | --- | --- |
-| [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AyrtonB&repo=NGDataPortal)](https://github.com/AyrtonB/NGDataPortal) | [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AyrtonB&repo=ElexonDataPortal)](https://github.com/AyrtonB/ElexonDataPortal) | [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AyrtonB&repo=CIDataPortal)](https://github.com/AyrtonB/CIDataPortal) |
+| National Grid | Elexon/BMRS | Carbon Intensity | Octopus Energy |
+| --- | --- | --- | --- |
+| [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AyrtonB&repo=NGDataPortal)](https://github.com/AyrtonB/NGDataPortal) | [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AyrtonB&repo=ElexonDataPortal)](https://github.com/AyrtonB/ElexonDataPortal) | [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AyrtonB&repo=CIDataPortal)](https://github.com/AyrtonB/CIDataPortal) | [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AyrtonB&repo=Octopy-Energy)](https://github.com/AyrtonB/Octopy-Energy) |
 
 <br>
 
