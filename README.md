@@ -21,7 +21,7 @@ I'm particularly excited by the growing volumes of energy data being made availa
 
 | National Grid | Elexon/BMRS | Carbon Intensity | Octopus Energy |
 | --- | --- | --- | --- |
-| [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AyrtonB&repo=NGDataPortal)](https://github.com/AyrtonB/NGDataPortal) | [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AyrtonB&repo=ElexonDataPortal)](https://github.com/AyrtonB/ElexonDataPortal) | [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AyrtonB&repo=CIDataPortal)](https://github.com/AyrtonB/CIDataPortal) | [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AyrtonB&repo=Octopy-Energy)](https://github.com/AyrtonB/Octopy-Energy) |
+| [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=OSUKED&repo=NGDataPortal)](https://github.com/OSUKED/NGDataPortal) | [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=OSUKED&repo=ElexonDataPortal)](https://github.com/OSUKED/ElexonDataPortal) | [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=OSUKED&repo=CIDataPortal)](https://github.com/OSUKED/CIDataPortal) | [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=OSUKED&repo=Octopy-Energy)](https://github.com/OSUKED/Octopy-Energy) |
 
 <br>
 
