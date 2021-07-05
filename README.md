@@ -11,11 +11,7 @@ I'm a PhD student working within the Energy Systems & AI Lab at the UCL Energy I
 
 <br>
 
-![HAyrton's github stats](https://github-readme-stats.vercel.app/api?username=AyrtonB&hide=["issues"]&show_icons=true&count_private=true)
-
-<br>
-
-### Portfolio
+### Projects
 
 I'm particularly excited by the growing volumes of energy data being made available and build tools to help others access it easier. To this end I've developed a number of Python libraries for downloading data from Octopus Energy, the UK National Grid, and BMRS - alongside smaller one-off notebooks for accessing other data sources.
 
@@ -27,7 +23,7 @@ I'm particularly excited by the growing volumes of energy data being made availa
 
 I've built several energy related websites for my own projects, external clients, and a multi-university energy journal. The majority of websites I work on use Flask or Django in the back-end but I also dabble in NodeJS, Laravel and CMS like Drupal. Currently most of my personal projects are related to model or data serving through Flask or FastAPI.
 
-| <a href="https://futureenergy.associates">Future Energy Associates</a> | <a href="http://energyjournal.co.uk/">Energy Journal</a> | <a href="http://japrofessionalservices.com/">JA Professional Services</a> |
+| <a href="https://futureenergy.associates">Future Energy Associates</a> | <a href="http://energyjournal.co.uk/">Energy Journal</a> | <a href="https://www.japrofessionalservices.com/">JA Professional Services</a> |
 | --- | --- | --- |
 | <img src="https://raw.githubusercontent.com/AyrtonB/AyrtonB/master/img/FEA.jpg"></img> | <img src="https://raw.githubusercontent.com/AyrtonB/AyrtonB/master/img/energy_journal.jpg"></img> | <img src="https://raw.githubusercontent.com/AyrtonB/AyrtonB/master/img/JAPSI.jpg"></img> |
 
