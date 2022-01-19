@@ -13,7 +13,7 @@ I'm a PhD student working within the Energy Systems & AI Lab at the UCL Energy I
 
 ### Projects
 
-I'm particularly excited by the growing volumes of energy data being made available and build tools to help others access it easier. To this end I've developed a number of Python libraries for downloading data from Octopus Energy, the UK National Grid, and BMRS - alongside smaller one-off notebooks for accessing other data sources.
+I'm particularly excited by the growing volumes of energy data being made available and build tools to help others access it easier. To this end I've developed a number of Python libraries for downloading data from Octopus Energy, the UK National Grid, and BMRS - alongside smaller one-off notebooks for accessing other data sources. Most of my energy data projects can now be found under the [Open-Source UK Energy Data](https://github.com/OSUKED) organisation.
 
 | National Grid | Elexon/BMRS | Carbon Intensity | Octopus Energy |
 | --- | --- | --- | --- |
